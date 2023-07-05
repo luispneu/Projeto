@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    height: 100px;
+background-color: black;
+    text-align: center;
+}
+.imagem{
+float: left;
+
+    width:80px;
+    height:80px;
+}
